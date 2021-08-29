@@ -11,12 +11,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "bubleify": "^2.0.0",
     "ify-loader": "^1.1.0",
     "transform-loader": "^0.2.4",
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10"
   },
   "dependencies": {
-    "plotly.js": "^1.52.0"
+    "image-size": "^0.7.5",
+    "plotly.js": "^2.3.1"
   }
 }
